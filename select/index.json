@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Chateau (Feel Alright)",
+  "base_artist": "Djo",
+  "createdAt": "2025-12-25T11:33:42.505722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chateau (Feel Alright)",
+      "artist": "Djo",
+      "has_synced": true,
+      "path": "select/01_Chateau_(Feel_Alright)_Djo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chateau (Feel Alright)",
+      "artist": "Djo, Joe Keery",
+      "has_synced": true,
+      "path": "select/02_Chateau_(Feel_Alright)_Djo,_Joe_Keery.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chateau (Feel Alright) (Paused)",
+      "artist": "Djo",
+      "has_synced": true,
+      "path": "select/03_Chateau_(Feel_Alright)_(Paused)_Djo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chateau (Feel Alright)",
+      "artist": "Djo",
+      "has_synced": false,
+      "path": "select/pl_01_Chateau_(Feel_Alright)_Djo.txt"
+    }
+  ]
+}
